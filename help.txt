@@ -7,6 +7,6 @@ git remote add origin https://github.com/DenSidorov/git-course.git = привя�
 git checkout -b test = создать ветку и упасть в нее
 git checkout -b test = удаляет ветку
 git merge test = объединяет ветки(находясь в master объеденит с readme)
-git -add index.html
-git -add . = добавить все файлы
+git add index.html
+git add . = добавить все файлы
 git commit -m "add index.html"
