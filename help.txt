@@ -8,5 +8,8 @@ git checkout -b test = создать ветку и упасть в нее
 git checkout -b test = удаляет ветку
 git merge test = объединяет ветки(находясь в master объеденит с readme)
 git add index.html
-git add . = добавить все файлы
-git commit -m "add index.html"
+git add . = добавить все файлы к надзору
+git commit -m "add index.html" = создаем commit
+git push = заливаем в репозиторий
+
+Расширение для хрома octotree
