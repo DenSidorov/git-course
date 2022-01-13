@@ -1,0 +1,12 @@
+git status
+git branch = в какой ветке находимся
+git config --global user.name = показывает текущего user
+git config --global user.name "vladilen" = создает нового юсера
+git config --global user.email
+git remote add origin https://github.com/DenSidorov/git-course.git = привязываем репозиторий
+git checkout -b test = создать ветку и упасть в нее
+git checkout -b test = удаляет ветку
+git merge test = объединяет ветки(находясь в master объеденит с readme)
+git -add index.html
+git -add . = добавить все файлы
+git commit -m "add index.html"
